@@ -1,4 +1,4 @@
-#GlobalCR: A Comprehensive Catalog of Chemoreceptors
+# GlobalCR: A Comprehensive Catalog of Chemoreceptors
 
 This repository contains the GlobalCR catalog, the largest and most comprehensive collection of chemoreceptors (CRs) to date. It includes over 1.4 million CR sequences from more than 800,000 metagenome-assembled genomes (MAGs) and 229,000 CRs from 41,000 representative reference genomes.
 
